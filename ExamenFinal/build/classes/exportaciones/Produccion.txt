@@ -1,0 +1,7 @@
+produccion{actividad=Proceso general de fabricación de nuevos productos, codigo=FAB-000, id=1, nombre=FAB-000 FABRICACIÓN, responsable=GERENCIA, PRODUCCIÓN, COMPRAS, CALIDAD, uso=planificadores}
+produccion{actividad=SubProceso de órdenes de producción del plan anual, codigo=FAB-001, id=2, nombre=FAB-001 Órdenes de producción Plan Anual, responsable=FABRICACION, uso=GERENCIA}
+produccion{actividad=SubProceso de lanzamiento de fabricación de nuevos productos, codigo=FAB-002, id=3, nombre=FAB-002 Órdenes de producción, responsable=FABRICACION, uso=PRODUCION}
+produccion{actividad=SubProceso de Solicitud de Insumos, codigo=FAB-002, id=4, nombre=FAB-003 Solicitud de Insumos, responsable=FABRICACION, uso=PRODUCCION}
+produccion{actividad=SubProceso de Autorización de Insumos para su compra, codigo=FAB-004, id=5, nombre=FAB-004 Autorización de Insumos, responsable=FABRICACION, uso=PRODUCCION}
+produccion{actividad=SubProceso de Autorización de Insumos para su compra, codigo=FAB-005, id=6, nombre=FAB-005 Autorización de Insumos, responsable=FABRICACION, uso=COMPRAS}
+produccion{actividad=SubProceso de Autorización de Insumos para su compra, codigo=FAB-006, id=7, nombre=FAB-005 Control de Calidad, responsable=FABRICACION, uso=CALIDAD}
