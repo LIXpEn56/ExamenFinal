@@ -1,4 +1,4 @@
-# 🌐😮‍💨Evidencia documental del trabajo realizado con imágenes
+# 😮‍💨Evidencia documental del trabajo realizado con imágenes
 ***
  ## Datos📌
  #### Nombre : Sanchez Ramirez Sandra Lizette
